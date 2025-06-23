@@ -1,1 +1,1 @@
-{"name":"debian/bullseye64","version":"11.20241217.1","provider":"libvirt","directory":"boxes/debian-VAGRANTSLASH-bullseye64/11.20241217.1/amd64/libvirt"}
+{"name":"generic/debian12","version":"4.3.12","provider":"libvirt","directory":"boxes/generic-VAGRANTSLASH-debian12/4.3.12/amd64/libvirt"}
